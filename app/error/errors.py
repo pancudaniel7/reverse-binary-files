@@ -1,0 +1,2 @@
+class UnsupportedBufferSizeException(Exception):
+    pass
